@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerVerse AI
 
 CareerVerse AI is a full-stack career guidance demo app with a React + Vite frontend, a Spring Boot backend, and MySQL storage.
@@ -312,3 +313,6 @@ npm install --registry=https://registry.npmjs.org/
 - Prefer environment variables for backend secrets instead of committing real keys.
 - Keep demo data enabled for local demos and disabled for production.
 - Verify official exam, admission, scholarship, and job links before real use.
+=======
+# CareerVerse-AI
+>>>>>>> 4fa3c4229ece2c76ac32e2242780d7c86568d1ab
